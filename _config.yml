@@ -1,0 +1,28 @@
+name: Galiano Island English Hagwon
+favicon: null
+layout_spectrum: 0.7023123276885599
+typography_spectrum: 0.2935692514292896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4879228409845382
+  lightness: 0.7533676095772535
+  saturation: 0.22728066029958427
+  rhythmicContrast: 0.29134283890016377
+purpose: []
