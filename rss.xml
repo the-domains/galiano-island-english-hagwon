@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Galiano Island English Hagwon]]></title>
         <description><![CDATA[Galiano Island English Hagwon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/galiano-island-english-hagwon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 10:09:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 03:26:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/galiano-island-english-hagwon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>2nd Annual Galiano Island Flea Market</p>]]></description>
-            <link>undefined87a9b858-2cf2-48ce-b837-ba67b1725819/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be70b6be-a6f9-4c94-858f-3d0b774bb98e.JPG">]]></description>
+            <link>https://thegrid.ai/galiano-island-english-hagwon/87a9b858-2cf2-48ce-b837-ba67b1725819/index.html</link>
             <guid isPermaLink="false">87a9b858-2cf2-48ce-b837-ba67b1725819</guid>
-            <pubDate>Tue, 02 Feb 2016 10:09:27 GMT</pubDate>
+            <pubDate>Fri, 12 Feb 2016 03:24:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
